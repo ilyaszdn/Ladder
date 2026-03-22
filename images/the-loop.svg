@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500">
+  <rect width="1200" height="500" fill="#0a0a0f"/>
+
+  <!-- Title -->
+  <text x="600" y="45" text-anchor="middle" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="22" font-weight="600">THE LOOP — FROM OBSERVATION TO VERIFIED IMPROVEMENT</text>
+  <text x="600" y="70" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="12">Based on "A Possible Path to ASI" — the human creative process, structured and scaled</text>
+
+  <!-- Central circle representing the loop -->
+  <circle cx="600" cy="270" r="160" fill="none" stroke="#27272a" stroke-width="2"/>
+
+  <!-- Stage nodes around the circle -->
+  <!-- 1. Observe (top) -->
+  <circle cx="600" cy="110" r="35" fill="#0a0a0f" stroke="#4a90d9" stroke-width="2"/>
+  <text x="600" y="107" text-anchor="middle" fill="#4a90d9" font-family="system-ui, sans-serif" font-size="10" font-weight="600">OBSERVE</text>
+  <text x="600" y="120" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">Find problems</text>
+
+  <!-- 2. Ideate (top-right) -->
+  <circle cx="738" cy="150" r="35" fill="#0a0a0f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="738" y="147" text-anchor="middle" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="10" font-weight="600">IDEATE</text>
+  <text x="738" y="160" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">Generate ideas</text>
+
+  <!-- 3. Hypothesize (right) -->
+  <circle cx="760" cy="270" r="35" fill="#0a0a0f" stroke="#a855f7" stroke-width="2"/>
+  <text x="760" y="265" text-anchor="middle" fill="#a855f7" font-family="system-ui, sans-serif" font-size="9" font-weight="600">HYPOTHE-</text>
+  <text x="760" y="276" text-anchor="middle" fill="#a855f7" font-family="system-ui, sans-serif" font-size="9" font-weight="600">SIZE</text>
+  <text x="760" y="289" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">Make testable</text>
+
+  <!-- 4. Experiment (bottom-right) -->
+  <circle cx="738" cy="390" r="35" fill="#0a0a0f" stroke="#10b981" stroke-width="2"/>
+  <text x="738" y="385" text-anchor="middle" fill="#10b981" font-family="system-ui, sans-serif" font-size="9" font-weight="600">EXPERI-</text>
+  <text x="738" y="396" text-anchor="middle" fill="#10b981" font-family="system-ui, sans-serif" font-size="9" font-weight="600">MENT</text>
+  <text x="738" y="409" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">Run the test</text>
+
+  <!-- 5. Verify (bottom) -->
+  <circle cx="600" cy="430" r="35" fill="#0a0a0f" stroke="#06b6d4" stroke-width="2"/>
+  <text x="600" y="427" text-anchor="middle" fill="#06b6d4" font-family="system-ui, sans-serif" font-size="10" font-weight="600">VERIFY</text>
+  <text x="600" y="440" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">Check results</text>
+
+  <!-- 6. Learn (bottom-left) -->
+  <circle cx="462" cy="390" r="35" fill="#0a0a0f" stroke="#93c5fd" stroke-width="2"/>
+  <text x="462" y="387" text-anchor="middle" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="10" font-weight="600">LEARN</text>
+  <text x="462" y="400" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">Extract insights</text>
+
+  <!-- 7. Apply (left) -->
+  <circle cx="440" cy="270" r="35" fill="#0a0a0f" stroke="#f97316" stroke-width="2"/>
+  <text x="440" y="267" text-anchor="middle" fill="#f97316" font-family="system-ui, sans-serif" font-size="10" font-weight="600">APPLY</text>
+  <text x="440" y="280" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">Implement change</text>
+
+  <!-- 8. Feed back (top-left) — completes the loop -->
+  <circle cx="462" cy="150" r="35" fill="#0a0a0f" stroke="#002fa7" stroke-width="2"/>
+  <text x="462" y="147" text-anchor="middle" fill="#4a90d9" font-family="system-ui, sans-serif" font-size="10" font-weight="600">FEED</text>
+  <text x="462" y="160" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="8">New inputs</text>
+
+  <!-- Clockwise directional arrows on the circle -->
+  <text x="670" y="120" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="16">→</text>
+  <text x="760" y="210" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="16">↓</text>
+  <text x="760" y="340" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="16">↓</text>
+  <text x="670" y="425" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="16">←</text>
+  <text x="440" y="340" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="16">↑</text>
+  <text x="440" y="210" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="16">↑</text>
+  <text x="520" y="120" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="16">→</text>
+
+  <!-- Center text -->
+  <text x="600" y="260" text-anchor="middle" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="20" font-weight="700">CONTINUOUS</text>
+  <text x="600" y="285" text-anchor="middle" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="20" font-weight="700">IMPROVEMENT</text>
+
+  <!-- Annotations -->
+  <text x="100" y="140" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Results become</text>
+  <text x="100" y="155" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">new sources</text>
+  <line x1="200" y1="150" x2="427" y2="150" stroke="#27272a" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <text x="900" y="270" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Each cycle makes</text>
+  <text x="900" y="285" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">the system smarter</text>
+
+  <!-- Bottom legend -->
+  <text x="600" y="490" text-anchor="middle" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="11">This is the process behind The Enlightenment, behind Silicon Valley, behind every major advance — now structured for anyone to run.</text>
+</svg>

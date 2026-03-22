@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <rect width="1200" height="400" fill="#0a0a0f"/>
+
+  <!-- Title -->
+  <text x="600" y="45" text-anchor="middle" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="22" font-weight="600">THE LADDER PIPELINE</text>
+
+  <!-- Stage boxes -->
+  <!-- Sources -->
+  <rect x="30" y="80" width="160" height="90" rx="8" fill="none" stroke="#4a90d9" stroke-width="2"/>
+  <text x="110" y="118" text-anchor="middle" fill="#4a90d9" font-family="system-ui, sans-serif" font-size="15" font-weight="600">SOURCES</text>
+  <text x="110" y="140" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="11">SR- prefixed</text>
+  <text x="110" y="155" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="10">Papers, articles, telemetry</text>
+
+  <!-- Arrow -->
+  <line x1="195" y1="125" x2="230" y2="125" stroke="#3f3f46" stroke-width="2"/>
+  <polygon points="230,120 240,125 230,130" fill="#3f3f46"/>
+
+  <!-- Ideas -->
+  <rect x="245" y="80" width="160" height="90" rx="8" fill="none" stroke="#f59e0b" stroke-width="2"/>
+  <text x="325" y="118" text-anchor="middle" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="15" font-weight="600">IDEAS</text>
+  <text x="325" y="140" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="11">ID- prefixed</text>
+  <text x="325" y="155" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="10">Candidate solutions</text>
+
+  <!-- Arrow -->
+  <line x1="410" y1="125" x2="445" y2="125" stroke="#3f3f46" stroke-width="2"/>
+  <polygon points="445,120 455,125 445,130" fill="#3f3f46"/>
+
+  <!-- Hypotheses -->
+  <rect x="460" y="80" width="160" height="90" rx="8" fill="none" stroke="#a855f7" stroke-width="2"/>
+  <text x="540" y="118" text-anchor="middle" fill="#a855f7" font-family="system-ui, sans-serif" font-size="15" font-weight="600">HYPOTHESES</text>
+  <text x="540" y="140" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="11">HY- prefixed</text>
+  <text x="540" y="155" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="10">Testable predictions</text>
+
+  <!-- Arrow -->
+  <line x1="625" y1="125" x2="660" y2="125" stroke="#3f3f46" stroke-width="2"/>
+  <polygon points="660,120 670,125 660,130" fill="#3f3f46"/>
+
+  <!-- Experiments -->
+  <rect x="675" y="80" width="160" height="90" rx="8" fill="none" stroke="#10b981" stroke-width="2"/>
+  <text x="755" y="118" text-anchor="middle" fill="#10b981" font-family="system-ui, sans-serif" font-size="15" font-weight="600">EXPERIMENTS</text>
+  <text x="755" y="140" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="11">EX- prefixed</text>
+  <text x="755" y="155" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="10">Structured tests</text>
+
+  <!-- Arrow -->
+  <line x1="840" y1="125" x2="875" y2="125" stroke="#3f3f46" stroke-width="2"/>
+  <polygon points="875,120 885,125 875,130" fill="#3f3f46"/>
+
+  <!-- Results -->
+  <rect x="890" y="80" width="160" height="90" rx="8" fill="none" stroke="#06b6d4" stroke-width="2"/>
+  <text x="970" y="118" text-anchor="middle" fill="#06b6d4" font-family="system-ui, sans-serif" font-size="15" font-weight="600">RESULTS</text>
+  <text x="970" y="140" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="11">RE- prefixed</text>
+  <text x="970" y="155" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="10">Verified outcomes</text>
+
+  <!-- Algorithms (separate track below) -->
+  <rect x="675" y="210" width="160" height="70" rx="8" fill="none" stroke="#f97316" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="755" y="242" text-anchor="middle" fill="#f97316" font-family="system-ui, sans-serif" font-size="13" font-weight="600">ALGORITHMS</text>
+  <text x="755" y="262" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="10">AL- | Proven methods</text>
+
+  <!-- Dashed line from Algorithms to Experiments -->
+  <line x1="755" y1="210" x2="755" y2="175" stroke="#f97316" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="750,178 755,170 760,178" fill="#f97316"/>
+
+  <!-- THE LOOP: curved arrow from Results back to Sources -->
+  <text x="600" y="320" text-anchor="middle" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="14" font-weight="600">THE LOOP</text>
+  <text x="600" y="340" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Results feed back as Sources — continuous improvement</text>
+
+  <!-- Loop arrow path -->
+  <path d="M 970 175 L 970 360 L 110 360 L 110 175" fill="none" stroke="#93c5fd" stroke-width="2" stroke-dasharray="8,4"/>
+  <polygon points="105,180 110,170 115,180" fill="#93c5fd"/>
+</svg>

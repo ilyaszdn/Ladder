@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2800 600" width="2800" height="600">
+  <!--
+    Ladder Logo Wide — Icon + "LADDER" text in geometric block style
+    Same color palette as PAI logo
+  -->
+
+  <!-- ICON (scaled to fit 600x600 area) -->
+  <!-- Row 1: rails only -->
+  <rect x="40"  y="30"  width="120" height="85" fill="#002fa7"/>
+  <rect x="440" y="30"  width="120" height="85" fill="#002fa7"/>
+
+  <!-- Row 2: top rung -->
+  <rect x="40"  y="135" width="120" height="85" fill="#002fa7"/>
+  <rect x="175" y="135" width="120" height="85" fill="#002fa7"/>
+  <rect x="310" y="135" width="115" height="85" fill="#4a90d9"/>
+  <rect x="440" y="135" width="120" height="85" fill="#4a90d9"/>
+
+  <!-- Row 3: rails only -->
+  <rect x="40"  y="240" width="120" height="85" fill="#002fa7"/>
+  <rect x="440" y="240" width="120" height="85" fill="#4a90d9"/>
+
+  <!-- Row 4: bottom rung -->
+  <rect x="40"  y="345" width="120" height="85" fill="#002fa7"/>
+  <rect x="175" y="345" width="120" height="85" fill="#4a90d9"/>
+  <rect x="310" y="345" width="115" height="85" fill="#93c5fd"/>
+  <rect x="440" y="345" width="120" height="85" fill="#93c5fd"/>
+
+  <!-- Row 5: rails only -->
+  <rect x="40"  y="450" width="120" height="85" fill="#002fa7"/>
+  <rect x="440" y="450" width="120" height="85" fill="#93c5fd"/>
+
+  <!-- TEXT: "LADDER" in geometric block letters -->
+  <!-- Each letter is ~280px wide, starting at x=680 -->
+
+  <!-- L -->
+  <rect x="680"  y="95"  width="50" height="340" fill="#002fa7"/>
+  <rect x="680"  y="385" width="200" height="50"  fill="#002fa7"/>
+
+  <!-- A -->
+  <rect x="930"  y="95"  width="200" height="50"  fill="#002fa7"/>
+  <rect x="930"  y="95"  width="50"  height="340" fill="#002fa7"/>
+  <rect x="1080" y="95"  width="50"  height="340" fill="#002fa7"/>
+  <rect x="930"  y="245" width="200" height="50"  fill="#4a90d9"/>
+
+  <!-- D -->
+  <rect x="1180" y="95"  width="50"  height="340" fill="#002fa7"/>
+  <rect x="1180" y="95"  width="170" height="50"  fill="#002fa7"/>
+  <rect x="1180" y="385" width="170" height="50"  fill="#4a90d9"/>
+  <rect x="1330" y="145" width="50"  height="240" fill="#4a90d9"/>
+
+  <!-- D -->
+  <rect x="1430" y="95"  width="50"  height="340" fill="#002fa7"/>
+  <rect x="1430" y="95"  width="170" height="50"  fill="#4a90d9"/>
+  <rect x="1430" y="385" width="170" height="50"  fill="#4a90d9"/>
+  <rect x="1580" y="145" width="50"  height="240" fill="#4a90d9"/>
+
+  <!-- E -->
+  <rect x="1680" y="95"  width="50"  height="340" fill="#4a90d9"/>
+  <rect x="1680" y="95"  width="200" height="50"  fill="#4a90d9"/>
+  <rect x="1680" y="245" width="160" height="50"  fill="#93c5fd"/>
+  <rect x="1680" y="385" width="200" height="50"  fill="#93c5fd"/>
+
+  <!-- R -->
+  <rect x="1930" y="95"  width="50"  height="340" fill="#4a90d9"/>
+  <rect x="1930" y="95"  width="200" height="50"  fill="#4a90d9"/>
+  <rect x="1930" y="245" width="200" height="50"  fill="#93c5fd"/>
+  <rect x="2080" y="145" width="50"  height="100" fill="#93c5fd"/>
+  <rect x="2030" y="295" width="50"  height="60"  fill="#93c5fd"/>
+  <rect x="2080" y="355" width="50"  height="80"  fill="#93c5fd"/>
+</svg>

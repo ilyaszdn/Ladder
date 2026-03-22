@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520">
+  <rect width="1200" height="520" fill="#0a0a0f"/>
+
+  <!-- Title -->
+  <text x="600" y="45" text-anchor="middle" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="22" font-weight="600">COGNITIVE PHASES OF IDEATION</text>
+  <text x="600" y="70" text-anchor="middle" fill="#52525b" font-family="system-ui, sans-serif" font-size="12">How humans (and AI) generate novel ideas — mapped to the Ladder pipeline</text>
+
+  <!-- Phase boxes — 3x3 grid -->
+  <!-- Row 1 -->
+  <!-- CONSUME -->
+  <rect x="30" y="100" width="360" height="100" rx="6" fill="#002fa7" fill-opacity="0.15" stroke="#002fa7" stroke-width="1.5"/>
+  <text x="50" y="128" fill="#4a90d9" font-family="monospace" font-size="11" font-weight="700">01</text>
+  <text x="80" y="128" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">CONSUME</text>
+  <text x="50" y="150" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Reading, education, experiences</text>
+  <text x="50" y="170" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Gather diverse raw material from 3+ domains</text>
+  <text x="50" y="188" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Analog: books, conversations, training</text>
+
+  <!-- DREAM -->
+  <rect x="420" y="100" width="360" height="100" rx="6" fill="#002fa7" fill-opacity="0.12" stroke="#4a90d9" stroke-width="1.5"/>
+  <text x="440" y="128" fill="#4a90d9" font-family="monospace" font-size="11" font-weight="700">02</text>
+  <text x="470" y="128" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">DREAM</text>
+  <text x="440" y="150" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">REM sleep, neural replay</text>
+  <text x="440" y="170" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Pure free-association, no problem awareness</text>
+  <text x="440" y="188" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Noise: 0.9 — maximum randomness</text>
+
+  <!-- DAYDREAM -->
+  <rect x="810" y="100" width="360" height="100" rx="6" fill="#002fa7" fill-opacity="0.10" stroke="#4a90d9" stroke-width="1.5"/>
+  <text x="830" y="128" fill="#4a90d9" font-family="monospace" font-size="11" font-weight="700">03</text>
+  <text x="860" y="128" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">DAYDREAM</text>
+  <text x="830" y="150" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Shower thoughts, mind-wandering</text>
+  <text x="830" y="170" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Semi-directed with loose problem awareness</text>
+  <text x="830" y="188" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Noise: 0.5 — guided randomness</text>
+
+  <!-- Row 2 -->
+  <!-- CONTEMPLATE -->
+  <rect x="30" y="230" width="360" height="100" rx="6" fill="#4a90d9" fill-opacity="0.10" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="50" y="258" fill="#a855f7" font-family="monospace" font-size="11" font-weight="700">04</text>
+  <text x="80" y="258" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">CONTEMPLATE</text>
+  <text x="50" y="280" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Deep focused thinking</text>
+  <text x="50" y="300" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">4 lenses: Literal, Failure, Analogical, Constraint</text>
+  <text x="50" y="318" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Noise: 0.1 — analytical precision</text>
+
+  <!-- STEAL -->
+  <rect x="420" y="230" width="360" height="100" rx="6" fill="#4a90d9" fill-opacity="0.08" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="440" y="258" fill="#f59e0b" font-family="monospace" font-size="11" font-weight="700">05</text>
+  <text x="470" y="258" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">STEAL</text>
+  <text x="440" y="280" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Cross-pollination from other fields</text>
+  <text x="440" y="300" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Map foreign patterns onto your problem space</text>
+  <text x="440" y="318" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">50+ candidate domains, weighted lottery</text>
+
+  <!-- MATE -->
+  <rect x="810" y="230" width="360" height="100" rx="6" fill="#93c5fd" fill-opacity="0.08" stroke="#f97316" stroke-width="1.5"/>
+  <text x="830" y="258" fill="#f97316" font-family="monospace" font-size="11" font-weight="700">06</text>
+  <text x="860" y="258" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">MATE</text>
+  <text x="830" y="280" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Genetic recombination of ideas</text>
+  <text x="830" y="300" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Crossover, mutation, cloning with drift</text>
+  <text x="830" y="318" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">20% forced cross-phase breeding</text>
+
+  <!-- Row 3 -->
+  <!-- TEST -->
+  <rect x="30" y="360" width="360" height="100" rx="6" fill="#93c5fd" fill-opacity="0.06" stroke="#10b981" stroke-width="1.5"/>
+  <text x="50" y="388" fill="#10b981" font-family="monospace" font-size="11" font-weight="700">07</text>
+  <text x="80" y="388" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">TEST</text>
+  <text x="50" y="410" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Fitness evaluation and scoring</text>
+  <text x="50" y="430" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Feasibility, Novelty, Impact, Elegance (0-100)</text>
+  <text x="50" y="448" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Multiple independent judges reduce bias</text>
+
+  <!-- EVOLVE -->
+  <rect x="420" y="360" width="360" height="100" rx="6" fill="#93c5fd" fill-opacity="0.04" stroke="#06b6d4" stroke-width="1.5"/>
+  <text x="440" y="388" fill="#06b6d4" font-family="monospace" font-size="11" font-weight="700">08</text>
+  <text x="470" y="388" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">EVOLVE</text>
+  <text x="440" y="410" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Natural selection on ideas</text>
+  <text x="440" y="430" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Bottom 50% killed, top 10% preserved, rest mutated</text>
+  <text x="440" y="448" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Diversity injection prevents collapse</text>
+
+  <!-- META-LEARN -->
+  <rect x="810" y="360" width="360" height="100" rx="6" fill="#93c5fd" fill-opacity="0.03" stroke="#93c5fd" stroke-width="1.5"/>
+  <text x="830" y="388" fill="#93c5fd" font-family="monospace" font-size="11" font-weight="700">09</text>
+  <text x="860" y="388" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">META-LEARN</text>
+  <text x="830" y="410" fill="#71717a" font-family="system-ui, sans-serif" font-size="12">Conscious reflection on what worked</text>
+  <text x="830" y="430" fill="#52525b" font-family="system-ui, sans-serif" font-size="11">Adjusts domain weights, phase balance, noise</text>
+  <text x="830" y="448" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Lamarckian advantage — learned traits carry forward</text>
+
+  <!-- Connecting arrows between phases (subtle) -->
+  <line x1="390" y1="150" x2="420" y2="150" stroke="#27272a" stroke-width="1.5"/>
+  <line x1="780" y1="150" x2="810" y2="150" stroke="#27272a" stroke-width="1.5"/>
+  <line x1="1170" y1="200" x2="1170" y2="215" stroke="#27272a" stroke-width="1.5"/>
+  <line x1="1170" y1="215" x2="30" y2="215" stroke="#27272a" stroke-width="0"/>
+  <line x1="390" y1="280" x2="420" y2="280" stroke="#27272a" stroke-width="1.5"/>
+  <line x1="780" y1="280" x2="810" y2="280" stroke="#27272a" stroke-width="1.5"/>
+  <line x1="390" y1="410" x2="420" y2="410" stroke="#27272a" stroke-width="1.5"/>
+  <line x1="780" y1="410" x2="810" y2="410" stroke="#27272a" stroke-width="1.5"/>
+
+  <!-- Phase flow numbers -->
+  <text x="600" y="500" text-anchor="middle" fill="#3f3f46" font-family="system-ui, sans-serif" font-size="11">Each cycle runs all 9 phases → survivors feed into the next cycle → the loop continues until convergence</text>
+</svg>

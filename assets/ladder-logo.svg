@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!--
+    Ladder Logo — Matches PAI logo grid style exactly
+    5-row grid, same block proportions, same color palette
+    Shape: Two vertical rails + two horizontal rungs (ladder)
+    Colors: Dark navy #002fa7 → Electric blue #4a90d9 → Light blue #93c5fd
+    Grid: 60px padding, 20px gaps, blocks are ~180px tall, columns ~220px wide
+  -->
+
+  <!-- ROW 1: Left rail top + gap + Right rail top -->
+  <rect x="60"  y="50"  width="220" height="150" fill="#002fa7"/>
+  <rect x="744" y="50"  width="220" height="150" fill="#002fa7"/>
+
+  <!-- ROW 2: Left rail + RUNG (top rung spans middle two columns) + Right rail -->
+  <rect x="60"  y="220" width="220" height="150" fill="#002fa7"/>
+  <rect x="300" y="220" width="200" height="150" fill="#002fa7"/>
+  <rect x="520" y="220" width="204" height="150" fill="#4a90d9"/>
+  <rect x="744" y="220" width="220" height="150" fill="#4a90d9"/>
+
+  <!-- ROW 3: Left rail middle + gap + Right rail middle -->
+  <rect x="60"  y="390" width="220" height="150" fill="#002fa7"/>
+  <rect x="744" y="390" width="220" height="150" fill="#4a90d9"/>
+
+  <!-- ROW 4: Left rail + RUNG (bottom rung spans middle two columns) + Right rail -->
+  <rect x="60"  y="560" width="220" height="150" fill="#002fa7"/>
+  <rect x="300" y="560" width="200" height="150" fill="#4a90d9"/>
+  <rect x="520" y="560" width="204" height="150" fill="#93c5fd"/>
+  <rect x="744" y="560" width="220" height="150" fill="#93c5fd"/>
+
+  <!-- ROW 5: Left rail bottom + gap + Right rail bottom -->
+  <rect x="60"  y="730" width="220" height="150" fill="#002fa7"/>
+  <rect x="744" y="730" width="220" height="150" fill="#93c5fd"/>
+</svg>
